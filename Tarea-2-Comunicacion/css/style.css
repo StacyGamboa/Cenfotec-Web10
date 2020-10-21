@@ -1,0 +1,66 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+.baby-blue{
+    color:#C3E0E5;
+}
+.dark-blue{
+    color: #274472;
+}
+.blue-gray{
+    color: #5885AF;
+}
+.midnight-blue{
+    color: #41729F;
+}
+.text-centered {
+    text-align: center;
+}
+/*General Navbar style*/
+.main-logo{
+    max-width: 250px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #274472;
+    font-weight: bold;
+}
+
+h2 {
+    color: #274472;
+    font-weight: bold;
+}
+
+.img-services{
+    width: 160px;
+}
+
+.bg-footer {
+    background-color: #274472;
+    color: #ffffff;
+}
+
+.text-social-icons a {
+    color: #ffffff;
+}
+
+.text-social-icons a:hover {
+    color: #C3E0E5;
+}
+
+.carousel-caption {
+    margin-bottom: 110px;
+}
+.carousel-caption h1 {
+    font-family: 'Ramabhadra', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.navbar-nav a {
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 37px;
+}
